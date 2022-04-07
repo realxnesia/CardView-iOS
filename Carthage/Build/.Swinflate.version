@@ -1,0 +1,28 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "1.0.4",
+  "iOS" : [
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "7df5fc0eef1f67571e74ab5d25a3fbd5cee01a3547359466aef2c66bc3b8b2ed",
+      "name" : "Swinflate",
+      "container" : "Swinflate.xcframework",
+      "identifier" : "ios-arm64_x86_64-simulator"
+    },
+    {
+      "swiftToolchainVersion" : "5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)",
+      "hash" : "b434ad3e44cd8879c50e5a0968295ee20df3cec119d9ff66238007b4c1361936",
+      "name" : "Swinflate",
+      "container" : "Swinflate.xcframework",
+      "identifier" : "ios-arm64"
+    }
+  ]
+}
